@@ -1,6 +1,7 @@
 <template>
   <div class="orange-text">
-    <slot></slot>
+    <h2>From BoxOrangeText</h2>
+    <p>Am I orange?</p>
   </div>
 </template>
 

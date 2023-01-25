@@ -1,17 +1,7 @@
 <template>
   <div id="index-page">
-    <BoxBlueText>
-      <div>
-        <h2>From BoxBlueText</h2>
-        <p>Am I blue?</p>
-      </div>
-    </BoxBlueText>
-    <BoxOrangeText>
-      <div>
-        <h2>From BoxOrangeText</h2>
-        <p>Am I orange?</p>
-      </div>
-    </BoxOrangeText>
+    <BoxBlueText />
+    <BoxOrangeText />
     <h2>
       <NuxtLink to="/another-page">Navigate elsewhere</NuxtLink>
     </h2>
