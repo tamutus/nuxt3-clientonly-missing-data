@@ -1,0 +1,28 @@
+{
+  "name": "nuxt3-clientonly-missing-data",
+  "version": "1.0.0",
+  "description": "Data attribute for component's own style scope missing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamutus/nuxt3-clientonly-missing-data.git"
+  },
+  "author": "Lavra Tamutus",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/tamutus/nuxt3-clientonly-missing-data/issues"
+  },
+  "homepage": "https://github.com/tamutus/nuxt3-clientonly-missing-data#readme",
+  "devDependencies": {
+    "nuxt": "^3.1.0"
+  }
+}
